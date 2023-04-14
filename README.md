@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaheshDeevi
-- 👀 I’m interested in designing automation frameworks for web,api and mobile
+- 👀 I’m interested in designing automation frameworks for Web and API.
 - 🌱 I’m currently learning **API Automation Framework**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
