@@ -1,19 +1,19 @@
-# Hello, I'm [Mahesh Deevi] 👋
+# Hello, I'm Mahesh Deevi 👋
 
 ## About Me
 
 I am a Software Development Engineer in Test (SDET) with a passion for creating efficient and reliable test automation solutions. My goal is to contribute to high-quality software development through continuous testing and automation.
 
-- 🔭 I’m currently working on [Current Project or Focus].
-- 🌱 I’m constantly learning and improving my skills in [Programming Languages, Testing Frameworks, Tools].
+- 🔭 I’m currently working on developing robust Selenium Automation Framework with Realtime Dashboard.
+- 🌱 I’m constantly learning and improving my skills in Programming Languages, Testing Frameworks, Tools.
 - 💬 Ask me about test automation, software testing, and quality assurance.
 
 ## Tech Stack
 
-- **Programming Languages:** Java, Python
+- **Programming Languages:** Java, Groovy
 - **Testing Frameworks:** Selenium, JUnit, TestNG
 - **Tools:** Git, Jenkins, Docker
-- **Other:** REST API testing, Performance testing
+- **Other:** REST API testing
 
 ## Projects
 
