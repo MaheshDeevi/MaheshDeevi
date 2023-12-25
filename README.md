@@ -15,26 +15,15 @@ I am a Software Development Engineer in Test (SDET) with a passion for creating 
 - **Tools:** Git, Jenkins, Docker
 - **Other:** REST API testing
 
-## Projects
-
-- [Project 1]: Brief description and link to the project repository.
-- [Project 2]: Brief description and link to the project repository.
-- ...
-
-## Blog
-
-I occasionally write about my experiences, learnings, and insights in the field of software testing and automation. Check out my latest articles on [Medium](https://medium.com/@yourusername).
-
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- LinkedIn: [www.linkedin.com/in/mahesh-deevi-791a85115](https://www.linkedin.com/in/mahesh-deevi-791a85115/)
+- GitHub: [https://github.com/MaheshDeevi](https://github.com/MaheshDeevi)
 
 ## How to Reach Me
 
-- 📧 Email: your.email@example.com
-- 🌐 Website: [Your Portfolio or Personal Website]
+- 📧 Email: 
+
 
 ## Stats
 
