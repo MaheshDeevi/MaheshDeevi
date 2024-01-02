@@ -25,7 +25,7 @@ I am a Software Development Engineer in Test (SDET) with a passion for creating 
 
 ## How to Reach Me
 
-- 📧 Email: 
+- 📧 Email: maheshdeevi009@gmail.com
 
 
 ## Stats
