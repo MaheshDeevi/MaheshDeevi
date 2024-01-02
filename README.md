@@ -14,8 +14,9 @@ I am a Software Development Engineer in Test (SDET) with a passion for creating 
 - **Programming Languages:** Java, Groovy
 - **Testing Frameworks:** Selenium, RESTAssured, TestNG
 - **Version Control System:** Git, Github, Bitbucket, Sourcetree
-- **DB:** MySQL, ORACLE, POSTGRES, MONGO
-- **CI/CD Tools:** Jenkins, Docker, ELK
+- **DB:** MySql, Oracle, Postgres, Mongo
+- **DevOps:** Jenkins, Docker
+- **Monitoring Tools:** ElasticSearch, Kibana
 
 ## Connect with Me
 
