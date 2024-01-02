@@ -12,9 +12,10 @@ I am a Software Development Engineer in Test (SDET) with a passion for creating 
 ## Tech Stack
 
 - **Programming Languages:** Java, Groovy
-- **Testing Frameworks:** Selenium, JUnit, TestNG
-- **Tools:** Git, Jenkins, Docker
-- **Other:** REST API testing
+- **Testing Frameworks:** Selenium, RESTAssured, TestNG
+- **Version Control System:** Git, Github, Bitbucket, Sourcetree
+- **DB:** MySQL, ORACLE, POSTGRES, MONGO
+- **CI/CD Tools:** Jenkins, Docker, ELK
 
 ## Connect with Me
 
