@@ -17,6 +17,7 @@ I am a Software Development Engineer in Test (SDET) with a passion for creating 
 - **DB:** MySql, Oracle, Postgres, Mongo
 - **DevOps:** Jenkins, Docker
 - **Monitoring Tools:** ElasticSearch, Kibana
+- **Other Tools:** Kafka
 
 ## Connect with Me
 
